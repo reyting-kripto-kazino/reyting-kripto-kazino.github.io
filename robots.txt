@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: reyting-kripto-kazino.github.io
+Sitemap: https://reyting-kripto-kazino.github.io/sitemap.xml
